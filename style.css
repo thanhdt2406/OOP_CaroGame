@@ -1,0 +1,16 @@
+.gameBoard{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.cell{
+    border: solid 1px gray;
+    text-align: center;
+    font-size:20pt;
+    cursor: pointer;
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
